@@ -7,6 +7,7 @@ This is a personal project of mine to learn the language [Rust](http://www.rust-
 
 So far it contains the following katas:
 
+- FizzBuzz
 
 ## License
 
